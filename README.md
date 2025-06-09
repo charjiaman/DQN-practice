@@ -1,6 +1,6 @@
 # 🧠 DQN LunarLander with Video Recording
 
-This project demonstrates how to train and evaluate a Deep Q-Network (DQN) agent using [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/). It uses the classic `LunarLander-v3` environment from [Gymnasium](https://gymnasium.farama.org/environments/box2d/lunar_lander/).
+This project demonstrates how to train and evaluate a Deep Q-Network (DQN) agent using [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/). It uses the classic `LunarLander-v3` environment and code is referenced and modified from [Gymnasium](https://gymnasium.farama.org/environments/box2d/lunar_lander/) using ChatGPT.
 
 ## 🛠 Project Features
 
