@@ -29,7 +29,10 @@ This project demonstrates how to train and evaluate a Deep Q-Network (DQN) agent
 
 ```bash
 # Step 1: Create the conda environment from YAML
-conda env create -f rl-dqn.yml
+conda env create -f rl-dqn-env.yml
 
 # Step 2: Activate the environment
 conda activate rl-dqn
+
+# Step 3: Activate spyder by typing spyder in the prompt
+spyder
